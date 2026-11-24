@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["355BT49WT2.com.ayanentity.newme"],
+        "components": [
+          { "/": "/friend", "comment": "友達の招待リンク" },
+          { "/": "/friend/*", "comment": "友達の招待リンク" }
+        ]
+      }
+    ]
+  }
+}

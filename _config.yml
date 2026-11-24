@@ -1,0 +1,5 @@
+# GitHub Pages(Jekyll)の設定
+# .well-known のようなドット始まりのフォルダは、Jekyll が標準では出力しない。
+# ユニバーサルリンク用の apple-app-site-association を配信するために含める
+include:
+  - .well-known
